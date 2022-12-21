@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there i'm starting now!   👋
+- 🌱 I’m currently learning HTML Css Js Phython
 <!--
 **OvN-leo/OvN-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
